@@ -1,0 +1,161 @@
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Juan Sebastián Echeverry <sebaxtian@gawab.com>, 2009.
+# Translated by Thanos Terentes Printzios <thanos@terentes.com> of HyperCom Team <http://hypercom.gr>, 2010.
+msgid ""
+msgstr ""
+"Project-Id-Version: Lexi\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-06-30 07:59-0500\n"
+"PO-Revision-Date: 2010-06-30 07:59-0500\n"
+"Last-Translator: Juan Sebastián Echeverry <sebaxtian@gawab.com>\n"
+"Language-Team: Greek by HyperCom Team <thanos@terentes.com; webmaster@hypercom.gr>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Language: Greek\n"
+"X-Poedit-Country: Greece\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: /var/www/wordpress/wp-content/plugins/lexi/\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: templates\n"
+"X-Poedit-SearchPath-2: tinymce\n"
+
+#: legacy.php:176
+#, php-format
+msgid "This message should be viewed only by the post owner or editor.<br>The tag or function you are using here has been deprecated.<br>See the <a href='%s'>readme</a> file to change into the new scheme."
+msgstr "Το μήνυμα αυτό πρέπει να εμφανίζεται μόνο στον συντάκτη ή ιδιοκτήτη του άρθρου.<br>Η ετικέτα ή η λειτουργία που χρησιμοποιείται είναι παρωχημένη.<br>Δείτε το αρχείο <a href='%s'>readme</a> για το πως πρέπει να αλλαχθεί."
+
+#: lexi.php:137
+#: lexi.php:138
+msgid "Can\\'t read Lexi Feed"
+msgstr "Αδυναμία ανάγνωσης της ροής του Lexi"
+
+#: lexi.php:251
+msgid "Loading Feed..."
+msgstr "Φόρτωση Ροής..."
+
+#: lexi.php:491
+msgid "Untitled"
+msgstr "Χωρίς Τίτλο"
+
+#: lexi.php:529
+msgid "Subscribe"
+msgstr "Εγγραφή"
+
+#: lexi.php:877
+msgid "Add an RSS feed to the sidebar using Lexi."
+msgstr "Προσθήκη RSS ροής στο πλευρικό πάνελ χρησιμοποιώντας το Lexi."
+
+#: templates/lexi_widget_manage.php:9
+#: tinymce/mce_lexi.php:43
+msgid "RSS"
+msgstr "RSS"
+
+#: templates/lexi_widget_manage.php:13
+#: tinymce/mce_lexi.php:47
+msgid "Title"
+msgstr "Τίτλος"
+
+#: templates/lexi_widget_manage.php:17
+#: tinymce/mce_lexi.php:66
+msgid "Items"
+msgstr "Στοιχεία"
+
+#: templates/lexi_widget_manage.php:19
+#: tinymce/mce_lexi.php:68
+msgid "Max number of items to show, or number of items per page when using pagination system."
+msgstr "Μέγιστος αρθμός συνολικά εμφανίσιμων στοιχείων, ή στοιχείων εμφανίσεων ανα σελίδα σε περίτπωση χρήση του συστήματος σελιδοποίησης."
+
+#: templates/lexi_widget_manage.php:25
+#: tinymce/mce_lexi.php:75
+msgid "Save cache"
+msgstr "Αποθήκευση cache"
+
+#: templates/lexi_widget_manage.php:25
+#: tinymce/mce_lexi.php:75
+msgid "Uncheck this option only in case the feed updates several times in an hour."
+msgstr "Αποεπιλέξτε την επιλογή αυτή μόνο στην περίπτωση που η ροή ενημερώνεται πολλές φορές σε μια ώρα."
+
+#: templates/lexi_widget_manage.php:28
+#: tinymce/mce_lexi.php:78
+msgid "Show feed title"
+msgstr "Εμφάνιση τίτλου ροής"
+
+#: templates/lexi_widget_manage.php:29
+#: tinymce/mce_lexi.php:79
+msgid "Show RSS icon"
+msgstr "Εμφάνιση εικονιδίου RSS"
+
+#: templates/lexi_widget_manage.php:32
+#: tinymce/mce_lexi.php:82
+msgid "Show items title"
+msgstr "Εμφάνιση τίτλου στοιχείου"
+
+#: templates/lexi_widget_manage.php:34
+#: tinymce/mce_lexi.php:84
+#, fuzzy
+msgid "Do not show content"
+msgstr "Εμφάνιση περιεχομένου στοιχείου"
+
+#: templates/lexi_widget_manage.php:35
+#: tinymce/mce_lexi.php:85
+#, fuzzy
+msgid "Show content"
+msgstr "Εμφάνιση περιεχομένου στοιχείου"
+
+#: templates/lexi_widget_manage.php:36
+#: tinymce/mce_lexi.php:86
+#, fuzzy
+msgid "Show truncated content"
+msgstr "Εμφάνιση περιεχομένου στοιχείου"
+
+#: templates/lexi_widget_manage.php:37
+#: tinymce/mce_lexi.php:87
+msgid "Truncated content as rollover title"
+msgstr ""
+
+#: templates/lexi_widget_manage.php:42
+#: tinymce/mce_lexi.php:91
+msgid "Show author"
+msgstr "Εμφάνιση συγγραφέα"
+
+#: templates/lexi_widget_manage.php:43
+#: tinymce/mce_lexi.php:92
+msgid "Show date"
+msgstr "Εμφάνιση Ημ/νίας"
+
+#: templates/lexi_widget_manage.php:46
+#: tinymce/mce_lexi.php:95
+msgid "Open links in new page"
+msgstr "Άνοιγμα συνδέσμων σε νέα σελίδα"
+
+#: templates/lexi_widget_manage.php:47
+#: tinymce/mce_lexi.php:96
+msgid "Paginate"
+msgstr "Σελιδοποίηση"
+
+#: tinymce/mce_lexi.php:31
+msgid "Lexi Feed"
+msgstr "Ροή ειδήσεων RSS"
+
+#: tinymce/mce_lexi.php:53
+msgid "Use the title from the feed"
+msgstr "Χρήση τίτλου από την ροή ειδήσεων"
+
+#: tinymce/mce_lexi.php:63
+msgid "Use a specific title"
+msgstr "Χρήση συγκεκριμένου τίτλου"
+
+#: tinymce/mce_lexi.php:104
+msgid "Cancel"
+msgstr "Ακύρωση"
+
+#: tinymce/mce_lexi.php:108
+msgid "Insert"
+msgstr "Εισαγωγή"
+

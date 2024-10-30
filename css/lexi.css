@@ -1,0 +1,43 @@
+/*div.lexi ul li {
+   text-align: left;
+   list-style-type: none;
+   background:transparent url(images/b.gif) no-repeat 0 4px;
+   border:0;
+   margin:0;
+   padding:0 0 2px 14px;
+}*/
+
+img.lexi {
+    background : transparent;
+    padding : 0px;
+    margin : 0px;
+    border-width : 0px;
+  }
+  
+div.lexi-page-on {		
+	width: 100%;
+	text-align: center;
+	background: url(../img/loading-page.gif) no-repeat center;
+	filter: alpha(opacity= 30);
+	-moz-opacity: .30;
+	opacity: .30;
+	font-size: 0;
+	min-height: 15px;
+}
+
+div.lexi-page-off {	
+	width: 100%;
+	text-align: center;
+	background: none;
+	min-height: 15px;
+}
+
+.lexi-page-actual {
+	font-size : 90%;
+}
+
+.lexi-page-other {
+	cursor : pointer;
+	font-size : 125%;
+}
+
